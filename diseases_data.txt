@@ -1,0 +1,152 @@
+Disease: Malaria
+Symptoms: fever, chills, sweating, headache, muscle pain, tiredness, nausea, vomiting
+
+Disease: Flu
+Symptoms: fever, cough, sore throat, body aches, fatigue, chills, runny nose
+
+Disease: COVID-19
+Symptoms: fever, cough, tiredness, loss of taste, difficulty breathing, headache, body aches, sore throat, loss of smell
+
+Disease: Chickenpox
+Symptoms: rash, fever, tiredness, loss of appetite, headache, itchy skin, blisters
+
+Disease: Dengue
+Symptoms: fever, headache, pain behind the eyes, severe muscle and joint pains, rash, nausea, vomiting, fatigue
+
+Disease: Tuberculosis
+Symptoms: persistent cough, weight loss, night sweats, fever, tiredness, coughing up blood, chest pain
+
+Disease: Pneumonia
+Symptoms: fever, chills, cough with mucus, shortness of breath, chest pain, fatigue, confusion
+
+Disease: Asthma
+Symptoms: shortness of breath, wheezing, coughing, chest tightness, difficulty breathing, especially at night or early morning
+
+Disease: Bronchitis
+Symptoms: persistent cough, chest discomfort, wheezing, mucus production, fatigue, slight fever, shortness of breath
+
+Disease: Hepatitis A
+Symptoms: fever, fatigue, loss of appetite, nausea, abdominal pain, dark urine, yellowing of skin (jaundice)
+
+Disease: Hepatitis B
+Symptoms: fatigue, fever, abdominal pain, dark urine, nausea, jaundice, loss of appetite
+
+Disease: Hepatitis C
+Symptoms: fatigue, nausea, muscle and joint aches, abdominal pain, dark urine, jaundice, loss of appetite
+
+Disease: Typhoid Fever
+Symptoms: high fever, weakness, abdominal pain, headache, loss of appetite, nausea, rash, constipation or diarrhea
+
+Disease: Schistosomiasis
+Symptoms: fever, cough, abdominal pain, diarrhea, blood in urine, itchy skin, fatigue, swollen lymph nodes
+
+Disease: Zika Virus
+Symptoms: fever, rash, joint pain, conjunctivitis (red eyes), headache, muscle pain, fatigue
+
+Disease: Mumps
+Symptoms: fever, headache, muscle aches, fatigue, loss of appetite, swollen and tender salivary glands
+
+Disease: Measles
+Symptoms: fever, cough, runny nose, sore throat, inflamed eyes, Koplik spots (small white spots in mouth), red blotchy skin rash
+
+Disease: Tetanus
+Symptoms: stiffness of the jaw (lockjaw), muscle spasms, difficulty swallowing, fever, sweating, high blood pressure, rapid heart rate
+
+Disease: Lyme Disease
+Symptoms: rash (often with a "bull’s-eye" appearance), fever, headache, fatigue, muscle and joint aches, swollen lymph nodes
+
+Disease: Common Cold
+Symptoms: sore throat, runny nose, cough, sneezing, mild headache, mild body aches, fatigue
+
+Disease: Allergic Rhinitis (Hay Fever)
+Symptoms: sneezing, runny nose, itchy nose, watery eyes, post-nasal drip, congestion, coughing
+
+Disease: Conjunctivitis (Pink Eye)
+Symptoms: red, itchy eyes, excessive tearing, blurry vision, eye pain, light sensitivity, swollen eyelids
+
+Disease: Sinusitis
+Symptoms: headache, facial pain, nasal congestion, runny nose, sore throat, post-nasal drip, cough, fatigue
+
+Disease: Strep Throat
+Symptoms: sore throat, fever, swollen lymph nodes, headache, difficulty swallowing, rash
+
+Disease: Chickenpox
+Symptoms: fever, itchy skin rash, tiredness, loss of appetite, headache, swollen lymph nodes
+
+Disease: Scarlet Fever
+Symptoms: high fever, sore throat, red rash, swollen lymph nodes, strawberry tongue, body aches
+
+Disease: Shingles
+Symptoms: pain, itching, rash, blisters, fever, headache, fatigue, muscle pain
+
+Disease: Tuberculosis (Recurrent)
+Symptoms: persistent cough, night sweats, fever, weight loss, coughing up blood, chest pain
+
+Disease: Appendicitis
+Symptoms: pain in the lower right abdomen, nausea, vomiting, loss of appetite, fever, constipation or diarrhea
+
+Disease: Gallstones
+Symptoms: sharp pain in the upper right abdomen, nausea, vomiting, bloating, indigestion, fever
+
+Disease: Heart Attack (Myocardial Infarction)
+Symptoms: chest pain, shortness of breath, sweating, nausea, dizziness, pain radiating to left arm, jaw pain
+
+Disease: Stroke
+Symptoms: sudden numbness or weakness in face, arm, or leg, confusion, trouble speaking, difficulty seeing, trouble walking, dizziness
+
+Disease: Chronic Kidney Disease
+Symptoms: fatigue, swelling in ankles and feet, shortness of breath, changes in urination, nausea, confusion
+
+Disease: Diabetes Type 1
+Symptoms: excessive thirst, frequent urination, fatigue, blurred vision, unexplained weight loss, slow-healing wounds
+
+Disease: Diabetes Type 2
+Symptoms: increased thirst, frequent urination, hunger, fatigue, blurred vision, slow-healing sores
+
+Disease: Hyperthyroidism
+Symptoms: weight loss, rapid heartbeat, sweating, nervousness, tremors, fatigue, increased appetite
+
+Disease: Hypothyroidism
+Symptoms: fatigue, weight gain, cold intolerance, constipation, dry skin, depression, muscle weakness
+
+Disease: Rheumatoid Arthritis
+Symptoms: joint pain, stiffness, swelling, redness, fatigue, fever, loss of appetite
+
+Disease: Osteoarthritis
+Symptoms: joint pain, stiffness, swelling, decreased range of motion, difficulty walking, swelling around joints
+
+Disease: Gout
+Symptoms: sudden and severe joint pain (usually in the big toe), swelling, redness, warmth around affected joint
+
+Disease: Peptic Ulcer Disease
+Symptoms: burning stomach pain, bloating, nausea, vomiting, loss of appetite, indigestion
+
+Disease: Irritable Bowel Syndrome (IBS)
+Symptoms: abdominal pain, bloating, constipation, diarrhea, mucus in stool, nausea
+
+Disease: Celiac Disease
+Symptoms: diarrhea, weight loss, bloating, abdominal pain, fatigue, irritability, mouth sores
+
+Disease: Crohn's Disease
+Symptoms: diarrhea, abdominal pain, weight loss, fatigue, bloating, mouth sores, blood in stool
+
+Disease: Ulcerative Colitis
+Symptoms: abdominal cramps, diarrhea (often with blood), weight loss, fatigue, nausea
+
+Disease: Panic Disorder
+Symptoms: rapid heartbeat, sweating, trembling, shortness of breath, chest pain, dizziness, fear of losing control
+
+Disease: Generalized Anxiety Disorder
+Symptoms: excessive worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbances
+
+Disease: Depression
+Symptoms: persistent sadness, loss of interest in activities, fatigue, trouble sleeping, changes in appetite, feelings of worthlessness
+
+Disease: Schizophrenia
+Symptoms: hallucinations, delusions, disorganized thinking, lack of emotion, difficulty concentrating, withdrawal from others
+
+Disease: Bipolar Disorder
+Symptoms: extreme mood swings, irritability, insomnia, rapid speech, increased energy, feelings of euphoria, depressive episodes
+
+Disease: Alzheimer’s Disease
+Symptoms: memory loss, confusion, difficulty speaking, trouble performing daily tasks, mood swings, disorientation

@@ -13,7 +13,6 @@ def load_data(file_path="C:\\Users\\SOAIB ASLAM\\OneDrive\\Desktop\\Disease Pred
 
     with open(file_path, "r") as file:
         lines = file.readlines()
-
         disease = None
         symptom_list = []
         for line in lines:

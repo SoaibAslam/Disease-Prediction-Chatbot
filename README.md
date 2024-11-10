@@ -65,4 +65,5 @@ Conclusion :-
      in healthcare.The project demonstrates a useful application of AI in the healthcare domain, and there is 
      potential for future improvements, such as incorporating larger datasets, adding more diseases, and expanding 
      the system to a web or mobile platform for broader accessibility.
-CODE : https://github.com/SoaibAslam/Disease-Prediction-Chatbot/commit/d6ad72cc6a4a844f4f46ebceb0776436c0489cb8
+     
+CODE : [https://github.com/SoaibAslam/Disease-Prediction-Chatbot/commit/d6ad72cc6a4a844f4f46ebceb0776436c0489cb8](https://github.com/SoaibAslam/Disease-Prediction-Chatbot/commit/f9c03314dc5df574b86d3e0b9e091cb703473a57)

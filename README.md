@@ -32,7 +32,7 @@ Machine Learning Developer (My Role) :-
      o Implemented real-time prediction capabilities for the chatbot.
      o Worked with the team to integrate the model with the user interface (chatbot). 
                   
-Backend Developer:
+Backend Developer:-
           o Developed the data-loading module and designed the system's backend for symptom-disease mapping.
           o Ensured that the data storage and retrieval process was optimized for fast query results. 
           

@@ -7,7 +7,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-def load_data(file_path="C:\\Users\\SOAIB ASLAM\\OneDrive\\Desktop\\Disease Prediction with chatbot\\Disease-Prediction-Chatbot\\diseases_data.txt"):
+def load_data(file_path=r"C:\\Users\\SOAIB ASLAM\\OneDrive\\Desktop\\Disease Prediction with chatbot\\Disease-Prediction-Chatbot\\diseases_data.txt"):
     diseases = []
     symptoms = []
 

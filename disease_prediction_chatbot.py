@@ -77,7 +77,7 @@ def chatbot(vectorizer, model):
         symptoms_input = input("Your symptoms: ") 
         
         if symptoms_input.lower() == 'exit':  
-            print("Good Bye!")
+            print("ALLAH HAFIZ")
             break
         
         if symptoms_input.strip() == "":
